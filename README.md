@@ -61,8 +61,8 @@ All models are evaluated using **Stratified K-Fold Cross-Validation (*k=10*)** t
 
 1. Clone the repository
 ```
-git clone https://github.com/username/breast-cancer-recurrence.git
-cd breast-cancer-recurrence
+git clone https://github.com/ameliamorsellino/Breast-Cancer-Recurrence-Prediction.git
+cd Breast-Cancer-Recurrence-Prediction
 ```
 2. Install dependencies
 ```
